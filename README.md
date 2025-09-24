@@ -23,11 +23,19 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
   3. Distribution of Article Lengths (histogram)  
   4. Article Length vs Category (scatter plot)  
   5. Top 10 Authors by Articles (bar chart)  
-- Added short insights under each plot.  
+- Added short insights under each plot.
+
+✅ Week 4: Statistics & Probability
+-Calculated mean, median, mode, and variance of dataset features.
+-Performed correlation analysis between numeric features and target variable (label).
+-Found the 3 most related features to the target:
+1.text_length
+2.title_length
+3.One categorical feature (weak relation but considered).
 
 
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
 - Initial exploratory data analysis completed.  
-
+- Identified the key predictive variables most related to the target variable (label).
