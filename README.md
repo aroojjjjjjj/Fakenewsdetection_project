@@ -33,9 +33,19 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 2.title_length
 3.One categorical feature (weak relation but considered).
 
+✅ Week 5: Supervised Learning – Regression
+- Trained a baseline Linear Regression model using `text_length` as predictor.  
+- Performed train/test split (80/20).  
+- Evaluated model performance:  
+  - Mean Absolute Error (MAE): ~0.50  
+  - Root Mean Squared Error (RMSE): ~0.50  
+- Learned how regression can be applied for binary target variables (baseline). 
 
+ 
+ 
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
 - Initial exploratory data analysis completed.  
 - Identified the key predictive variables most related to the target variable (label).
+- Built first baseline regression model.
