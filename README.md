@@ -41,7 +41,12 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
   - Root Mean Squared Error (RMSE): ~0.50  
 - Learned how regression can be applied for binary target variables (baseline). 
 
- 
+ ✅ Week 6: Supervised Learning – Classification
+-Implemented two classification models:
+1.Logistic Regression → Baseline classifier
+2.Random Forest Classifier → Ensemble method
+-Compared their accuracy on the dataset.
+-Identified which model performs better for detecting Fake vs Real news.
  
  📌 Project Milestones So Far
 - Environment setup complete.  
@@ -49,3 +54,4 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - Initial exploratory data analysis completed.  
 - Identified the key predictive variables most related to the target variable (label).
 - Built first baseline regression model.
+- Built first baseline classification models and compared accuracy.
