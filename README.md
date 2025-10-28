@@ -47,7 +47,14 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 2.Random Forest Classifier → Ensemble method
 -Compared their accuracy on the dataset.
 -Identified which model performs better for detecting Fake vs Real news.
- 
+
+ ✅ Week 7: Model Evaluation
+.Evaluated trained classification models using key performance metrics: Precision, Recall, F1 Score, and Accuracy.
+.Generated and analyzed the Confusion Matrix and ROC Curve for better understanding of model performance.
+.Observed that the model achieved high accuracy (≈100%) on the test set.
+.Identified F1 Score as the most important metric for the Fake News Detection project, since it balances precision and recall  both critical for minimizing false predictions.
+.Finalized F1 Score as the main evaluation metric for upcoming project stages.
+
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
@@ -55,3 +62,4 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - Identified the key predictive variables most related to the target variable (label).
 - Built first baseline regression model.
 - Built first baseline classification models and compared accuracy.
+- Finalized F1 Score as the primary evaluation metric for the Fake News Detection model.
