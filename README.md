@@ -55,6 +55,13 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 .Identified F1 Score as the most important metric for the Fake News Detection project, since it balances precision and recall  both critical for minimizing false predictions.
 .Finalized F1 Score as the main evaluation metric for upcoming project stages.
 
+✅ Week 8: Unsupervised Learning
+. Implemented K-Means clustering to explore hidden patterns in the dataset.
+. Used TF-IDF vectorization to convert text data into numerical features.
+. Applied PCA (Principal Component Analysis) to visualize clusters in 2D space.
+. Observed that Cluster 1 contained mostly fake news while Cluster 0 had more real news, showing a natural separation even      without labels.
+. Demonstrated how unsupervised learning can uncover structure and relationships in textual data.
+
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
@@ -63,3 +70,4 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - Built first baseline regression model.
 - Built first baseline classification models and compared accuracy.
 - Finalized F1 Score as the primary evaluation metric for the Fake News Detection model.
+- Added unsupervised analysis (K-Means clustering with PCA visualization) to the Fake News Detection project.
