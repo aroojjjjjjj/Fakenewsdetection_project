@@ -62,6 +62,14 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 . Observed that Cluster 1 contained mostly fake news while Cluster 0 had more real news, showing a natural separation even      without labels.
 . Demonstrated how unsupervised learning can uncover structure and relationships in textual data.
 
+✅ Week 9: Neural Networks Basics
+Implemented a simple Artificial Neural Network (ANN) using Keras.
+Used text length as a numerical feature to train the neural model.
+Trained the ANN with multiple epochs to learn patterns in fake vs real news.
+Evaluated ANN performance on test data and recorded accuracy.
+Compared ANN results with previous models (Logistic Regression and Random Forest).
+Confirmed that ANN can learn non-linear patterns and serves as a strong neural baseline for the project.
+
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
@@ -71,3 +79,4 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - Built first baseline classification models and compared accuracy.
 - Finalized F1 Score as the primary evaluation metric for the Fake News Detection model.
 - Added unsupervised analysis (K-Means clustering with PCA visualization) to the Fake News Detection project.
+- ANN baseline model successfully implemented and evaluated against traditional classifiers.
