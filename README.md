@@ -98,6 +98,15 @@ Successfully ran the Flask app on localhost/Colab environment.
 Tested the deployed pipeline by passing sample news text and receiving correct predictions.
 Demonstrated complete end‑to‑end workflow from input text to model prediction.
 
+✅ Week 14: Ethics & Explainability
+Studied ethical considerations in AI systems, including fairness, transparency, and accountability.
+Reviewed interpretable machine learning concepts using reference materials by Christoph Molnar and Google AI Ethics.
+Applied SHAP to explain predictions of the fake news detection model.
+Visualized how individual words contributed to REAL or FAKE predictions.
+Improved model transparency by explaining why specific inputs led to specific outputs.
+Ensured the AI system is interpretable and ethically aligned for real‑world usage.
+
+
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
@@ -112,5 +121,6 @@ Demonstrated complete end‑to‑end workflow from input text to model predictio
 - NLP preprocessing and feature extraction pipeline successfully completed.
 - Project successfully connected to real‑world industry applications and case studies.
 - End‑to‑end fake news detection pipeline successfully deployed and tested using Flask.
+- Added explainability to the fake news detection model by interpreting predictions using SHAP.
 
   
