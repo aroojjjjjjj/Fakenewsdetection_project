@@ -63,12 +63,21 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 . Demonstrated how unsupervised learning can uncover structure and relationships in textual data.
 
 ✅ Week 9: Neural Networks Basics
-Implemented a simple Artificial Neural Network (ANN) using Keras.
-Used text length as a numerical feature to train the neural model.
-Trained the ANN with multiple epochs to learn patterns in fake vs real news.
-Evaluated ANN performance on test data and recorded accuracy.
-Compared ANN results with previous models (Logistic Regression and Random Forest).
-Confirmed that ANN can learn non-linear patterns and serves as a strong neural baseline for the project.
+.Implemented a simple Artificial Neural Network (ANN) using Keras.
+.Used text length as a numerical feature to train the neural model.
+.Trained the ANN with multiple epochs to learn patterns in fake vs real news.
+.Evaluated ANN performance on test data and recorded accuracy.
+.Compared ANN results with previous models (Logistic Regression and Random Forest).
+.Confirmed that ANN can learn non-linear patterns and serves as a strong neural baseline for the project.
+
+✅ Week 10: Advanced Deep Learning (CNN & RNN)
+.Implemented a Convolutional Neural Network (CNN) using news‑related images to classify fake vs real news.
+.Organized image data into fake and real classes and trained the CNN model for image‑based prediction.
+.Implemented a Recurrent Neural Network (RNN) using textual news data after tokenization and sequence padding.
+.Trained the RNN model on news article text to learn sequential patterns in fake vs real news.
+.Generated predictions using both CNN (image data) and RNN (text data).
+.Confirmed the effectiveness of specialized deep learning models for handling different data modalities (images and text).
+
 
  📌 Project Milestones So Far
 - Environment setup complete.  
@@ -80,3 +89,5 @@ Confirmed that ANN can learn non-linear patterns and serves as a strong neural b
 - Finalized F1 Score as the primary evaluation metric for the Fake News Detection model.
 - Added unsupervised analysis (K-Means clustering with PCA visualization) to the Fake News Detection project.
 - ANN baseline model successfully implemented and evaluated against traditional classifiers.
+- Applied specialized AI models by implementing CNN for image data and RNN for text‑based fake news detection.
+  
