@@ -78,6 +78,13 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 .Generated predictions using both CNN (image data) and RNN (text data).
 .Confirmed the effectiveness of specialized deep learning models for handling different data modalities (images and text).
 
+✅ Week 11: Natural Language Processing (NLP)
+. Performed NLP preprocessing on news text including tokenization and stopword removal.
+. Converted text data into numerical features using TF-IDF vectorization.
+. Split dataset into training and testing sets.
+. Trained a machine learning classifier on TF-IDF features.
+. Evaluated model using accuracy, precision, recall, and F1-score.
+. Established a complete NLP pipeline for fake news text classification.
 
  📌 Project Milestones So Far
 - Environment setup complete.  
@@ -90,4 +97,6 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - Added unsupervised analysis (K-Means clustering with PCA visualization) to the Fake News Detection project.
 - ANN baseline model successfully implemented and evaluated against traditional classifiers.
 - Applied specialized AI models by implementing CNN for image data and RNN for text‑based fake news detection.
+- NLP preprocessing and feature extraction pipeline successfully completed.
+
   
