@@ -86,6 +86,10 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 . Evaluated model using accuracy, precision, recall, and F1-score.
 . Established a complete NLP pipeline for fake news text classification.
 
+✅ Week 12: report
+📄 2‑page industry application report
+🏥 Healthcare + 💰 Finance case studies included
+
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
@@ -98,5 +102,6 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - ANN baseline model successfully implemented and evaluated against traditional classifiers.
 - Applied specialized AI models by implementing CNN for image data and RNN for text‑based fake news detection.
 - NLP preprocessing and feature extraction pipeline successfully completed.
+- Project successfully connected to real‑world industry applications and case studies.
 
   
