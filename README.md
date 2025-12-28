@@ -90,6 +90,14 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 📄 2‑page industry application report
 🏥 Healthcare + 💰 Finance case studies included
 
+✅ Week 13: Model Deployment
+Saved the trained Fake News Detection model and TF‑IDF vectorizer using pickle.
+Implemented a Flask application to load the saved model for inference.
+Created API routes to accept text input and return prediction results (REAL / FAKE).
+Successfully ran the Flask app on localhost/Colab environment.
+Tested the deployed pipeline by passing sample news text and receiving correct predictions.
+Demonstrated complete end‑to‑end workflow from input text to model prediction.
+
  📌 Project Milestones So Far
 - Environment setup complete.  
 - Dataset collected and cleaned.  
@@ -103,5 +111,6 @@ The project is assigned based on roll number, and my task is **Fake News Detecti
 - Applied specialized AI models by implementing CNN for image data and RNN for text‑based fake news detection.
 - NLP preprocessing and feature extraction pipeline successfully completed.
 - Project successfully connected to real‑world industry applications and case studies.
+- End‑to‑end fake news detection pipeline successfully deployed and tested using Flask.
 
   
